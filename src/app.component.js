@@ -1,4 +1,4 @@
-const {Component} = require('angular2/core')
+const {Component} = require('@angular/core')
 
 module.exports = Component({
   selector: 'my-app',
